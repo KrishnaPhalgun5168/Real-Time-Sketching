@@ -1,0 +1,2 @@
+pip install numpy==1.16.6
+pip install opencv-python==4.2.0.32
